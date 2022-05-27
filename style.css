@@ -1,0 +1,14 @@
+*{
+    font-family: cursive;
+    color: white !important;
+    margin: 0 !important;
+}
+
+h3{
+    text-shadow: 2px 2px black;
+}
+
+input{
+    color: black !important;
+    text-align: center;
+}
